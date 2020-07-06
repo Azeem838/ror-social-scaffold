@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-[Use the app here](https://lit-fjord-46157.herokuapp.com/)
+Use the app here
 
 ## Getting Started
 
